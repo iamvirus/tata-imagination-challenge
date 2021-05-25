@@ -1,0 +1,401 @@
+Invoice Code,Description,Category,Quantity,Price per unit,Order Date,Customer Name,Pin code,City (Dispatch),Item Returned,Mode of Payment,Customer Experience Rating
+454666,Coolpix DSLR,Camera & Photo Accessories,2,8250,03-01-2020,Maya,560016,Chennai,No,Credit Card,4
+454674,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,4372,16-01-2020,Sahil,380001,Delhi,No,UPI,3
+454679,Beard Trimmer,Beauty And Personal Care,10,965,30-01-2020,Shreya,380002,Hyderabad,No,Credit Card,5
+454686,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,5799,03-01-2020,Shrey,380003,Hyderabad,Yes,COD,3
+454689,Coolpix DSLR,Camera & Photo Accessories,2,8465,14-01-2020,Farhan,380003,Bangalore,No,UPI,5
+454690,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,3347,18-01-2020,Kartik,500037,Mumbai,No,Debit Card,1
+454696,Switch videogame console,Video Games & Consoles,3,560,20-01-2020,Uma,380002,Hyderabad,Yes,Credit Card,2
+454699,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4046,23-01-2020,Dhruv,500037,Hyderabad,Yes,UPI,5
+454701,Uno Playing Cards,Toys & Games,3,702,12-01-2020,Sanjana,500029,Delhi,No,COD,5
+454708,The Girl on the Train,Books,1,671,21-01-2020,Kabir,500029,Hyderabad,No,COD,5
+454710,D3501 mirrorless camera,Camera & Photo Accessories,2,10360,20-01-2020,Salman,380002,Chennai,No,Debit Card,5
+454716,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2701,14-01-2020,Daljeet,110004,Chennai,Yes,Credit Card,5
+454721,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,5218,25-01-2020,Simran,560020,Bangalore,No,Credit Card,3
+454724,God Of War for PS5,Video Games & Consoles,3,1484,23-01-2020,Maya,560016,Delhi,Yes,Credit Card,5
+454731,Building Blocks - Set of 501,Toys & Games,3,121,06-01-2020,Abhijeet,110004,Delhi,Yes,Debit Card,5
+454732,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1270,07-01-2020,Imraan,110004,Chennai,No,Credit Card,1
+454740,Spa Bar - Jasmine,Beauty And Personal Care,10,1211,02-01-2020,Mohammed,110004,Hyderabad,Yes,Credit Card,5
+454748,Ikigai: The Japanese secret to a long and happy life.,Books,1,548,02-01-2020,Dalbir,560016,Hyderabad,No,Credit Card,5
+454749,Xbox One,Video Games & Consoles,3,1913,05-01-2020,Sanjay,560020,Bangalore,Yes,UPI,5
+454757,Spa Bar - Jasmine,Beauty And Personal Care,10,910,16-01-2020,Dhruv,500037,Ahmedabad,No,Debit Card,1
+454762,Hero 9 portable drone camera,Camera & Photo Accessories,2,9818,03-01-2020,Himmat,560016,Delhi,No,UPI,4
+454768,God Of War for PS5,Video Games & Consoles,3,626,16-01-2020,Bhoomi,380003,Mumbai,No,Debit Card,5
+454773,Galazy Note 21,Electronic Accessories & Gadgets,8,7013,01-01-2020,Simran,560020,Ahmedabad,No,Debit Card,5
+454781,Monopoly Board Game,Toys & Games,3,629,02-01-2020,Abhijeet,110004,Mumbai,Yes,UPI,2
+454783,Toy Gun Blaster ,Toys & Games,3,246,08-01-2020,Surbhi,380001,Delhi,No,UPI,5
+454786,The Girl on the Train,Books,1,836,07-01-2020,Zoya,560016,Ahmedabad,Yes,COD,5
+454787,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,560,24-01-2020,Madhav,400015,Mumbai,No,UPI,4
+454791,Monopoly Board Game,Toys & Games,3,327,14-01-2020,Zoya,560016,Delhi,Yes,Debit Card,4
+454795,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,4786,20-01-2020,Nikhil,600079,Chennai,No,Debit Card,4
+454803,Wax Crayons (Set of 120),Toys & Games,3,545,10-01-2020,Salman,380002,Ahmedabad,No,UPI,5
+454804,Spa Bar - Jasmine,Beauty And Personal Care,10,656,15-01-2020,Sanjay,560020,Bangalore,Yes,Debit Card,5
+454812,Ikigai: The Japanese secret to a long and happy life.,Books,1,368,07-01-2020,Daljeet,110004,Ahmedabad,No,Credit Card,5
+454817,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,4332,09-01-2020,Himmat,560016,Chennai,No,Credit Card,5
+454818,4-layered Face Masks,Beauty And Personal Care,10,1115,15-01-2020,Anjali,560020,Delhi,Yes,Debit Card,4
+454819,Xbox One,Video Games & Consoles,3,1204,01-01-2020,Aditi,600079,Mumbai,No,COD,5
+454825,Toy Gun Blaster ,Toys & Games,3,952,15-01-2020,Maya,560016,Delhi,No,Credit Card,5
+454827,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1371,24-01-2020,Aasha,560016,Bangalore,Yes,UPI,5
+454829,Hair Straightener,Beauty And Personal Care,10,558,20-01-2020,Zoya,560016,Chennai,No,COD,5
+454831,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2678,14-01-2020,Akshat,500029,Chennai,Yes,COD,5
+454834,"Rich Dad, Poor Dad",Books,1,510,27-01-2020,Daljeet,110004,Bangalore,No,COD,5
+454837,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,4257,24-01-2020,Aditya,500037,Hyderabad,Yes,Credit Card,5
+454841,The Girl on the Train,Books,1,573,29-01-2020,Salman,380002,Mumbai,No,Debit Card,5
+454842,Coolpix DSLR,Camera & Photo Accessories,2,11873,06-01-2020,Vaishnavi,500037,Hyderabad,No,Debit Card,2
+454843,Uno Playing Cards,Toys & Games,3,251,28-01-2020,Zoya,560016,Delhi,No,Credit Card,5
+454846,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2897,26-01-2020,Madhav,400015,Chennai,No,COD,3
+454852,Minecraft for Playstation 5,Video Games & Consoles,3,1806,22-01-2020,Abhijeet,110004,Bangalore,Yes,Credit Card,5
+454860,Hair Straightener,Beauty And Personal Care,10,702,02-01-2020,Ashish,380001,Ahmedabad,No,Credit Card,1
+454867,Wax Crayons (Set of 120),Toys & Games,3,413,12-01-2020,Abhijeet,110004,Mumbai,No,Credit Card,5
+454868,Xbox One,Video Games & Consoles,3,1960,04-01-2020,Madhav,400015,Delhi,No,UPI,4
+454876,Switch videogame console,Video Games & Consoles,3,1618,07-01-2020,Ekta,380003,Chennai,No,COD,5
+454882,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,7571,26-01-2020,Kabir,500029,Bangalore,Yes,Credit Card,5
+454884,PowerShot DSLR,Camera & Photo Accessories,2,5162,20-01-2020,Zoya,560016,Bangalore,No,Credit Card,5
+454891,The Girl on the Train,Books,1,560,20-01-2020,Varun,500029,Bangalore,No,Debit Card,5
+454892,Toy Gun Blaster ,Toys & Games,3,870,05-01-2020,Yash,110004,Chennai,No,COD,2
+454895,Toy Gun Blaster ,Toys & Games,3,985,27-01-2020,Vaishnavi,500037,Delhi,No,Credit Card,5
+454897,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,5714,23-01-2020,Aditya,500037,Chennai,Yes,COD,5
+454902,Spa Bar - Jasmine,Beauty And Personal Care,10,911,11-01-2020,Shivani,380001,Bangalore,No,Credit Card,2
+454908,D3501 mirrorless camera,Camera & Photo Accessories,2,8676,03-01-2020,Dalbir,560016,Mumbai,Yes,UPI,2
+454913,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,6923,02-01-2020,Zoya,560016,Delhi,No,Debit Card,5
+454915,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,5915,30-01-2020,Rohan,560020,Hyderabad,No,COD,4
+454921,Hair Straightener,Beauty And Personal Care,10,943,11-01-2020,Abhijeet,110004,Chennai,No,COD,2
+454923,PlayStation 4 Slim,Video Games & Consoles,3,1410,06-01-2020,Dhruv,500037,Delhi,Yes,COD,2
+454931,God Of War for PS5,Video Games & Consoles,3,1303,19-01-2020,Tanvi,560020,Chennai,No,Credit Card,4
+454934,Hair Straightener,Beauty And Personal Care,10,567,16-01-2020,Himmat,560016,Mumbai,No,Debit Card,4
+454936,The Martian,Books,1,323,26-01-2020,Parth,400015,Mumbai,No,Credit Card,5
+454938,The Girl on the Train,Books,1,867,19-01-2020,Dhruv,500037,Hyderabad,Yes,Credit Card,5
+454939,Minecraft for Playstation 5,Video Games & Consoles,3,1305,26-01-2020,Vaishnavi,500037,Hyderabad,No,Debit Card,2
+454943,4-layered Face Masks,Beauty And Personal Care,10,715,31-01-2020,Zoya,560016,Chennai,No,Debit Card,5
+454948,Uno Playing Cards,Toys & Games,3,907,15-01-2020,Daljeet,110004,Chennai,Yes,COD,1
+454949,Beard Trimmer,Beauty And Personal Care,10,1491,26-01-2020,Ekta,380003,Chennai,No,Debit Card,3
+454952,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,833,17-01-2020,Gaurav,380001,Hyderabad,No,Credit Card,5
+454955,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,7735,27-01-2020,Gaurav,380001,Mumbai,No,UPI,5
+454956,Hair Straightener,Beauty And Personal Care,10,991,17-01-2020,Shweta,600079,Chennai,No,Credit Card,5
+454960,4-layered Face Masks,Beauty And Personal Care,10,911,28-01-2020,Aditi,600079,Ahmedabad,No,Credit Card,5
+454962,Building Blocks - Set of 501,Toys & Games,3,190,25-01-2020,Abhijeet,110004,Hyderabad,No,COD,3
+454966,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2940,17-01-2020,Madhav,400015,Hyderabad,No,UPI,4
+454974,Hair Straightener,Beauty And Personal Care,10,1031,31-01-2020,Himmat,560016,Bangalore,Yes,UPI,5
+454980,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1074,27-01-2020,Gauhar,380003,Bangalore,No,COD,5
+454981,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,2739,24-01-2020,Vaishnavi,500037,Delhi,No,COD,5
+454988,Coolpix DSLR,Camera & Photo Accessories,2,9726,29-01-2020,Parth,400015,Ahmedabad,Yes,Credit Card,1
+454996,PowerShot DSLR,Camera & Photo Accessories,2,5786,25-01-2020,Pranav,500029,Chennai,No,Debit Card,4
+455004,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2784,14-01-2020,Sanjay,560020,Chennai,No,Credit Card,1
+455010,Building Blocks - Set of 501,Toys & Games,3,859,02-01-2020,Vaishnavi,500037,Chennai,No,UPI,2
+455012,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2946,24-01-2020,Aditi,600079,Chennai,Yes,UPI,5
+455020,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,3611,05-01-2020,Urvashi,400015,Ahmedabad,No,COD,5
+455028,Wax Crayons (Set of 120),Toys & Games,3,564,05-01-2020,Uma,380002,Ahmedabad,No,Debit Card,5
+455031,The Martian,Books,1,986,25-01-2020,Shweta,600079,Delhi,No,Debit Card,5
+455035,Monopoly Board Game,Toys & Games,3,148,22-01-2020,Shweta,600079,Delhi,Yes,Debit Card,1
+455038,Hero 9 portable drone camera,Camera & Photo Accessories,2,10112,07-01-2020,Sanjana,500029,Delhi,No,Debit Card,5
+455043,Spa Bar - Jasmine,Beauty And Personal Care,10,498,04-01-2020,Zoya,560016,Bangalore,No,Debit Card,4
+455049,Spa Bar - Jasmine,Beauty And Personal Care,10,1266,24-01-2020,Daljeet,110004,Delhi,No,UPI,5
+455052,Harry Potter and the Deathly Hallows,Books,1,663,15-01-2020,Sanjana,500029,Hyderabad,No,UPI,4
+455057,Beard Trimmer,Beauty And Personal Care,10,946,08-01-2020,Parth,400015,Hyderabad,Yes,UPI,5
+455061,Galazy Note 21,Electronic Accessories & Gadgets,8,3750,08-01-2020,Nikhil,600079,Hyderabad,No,COD,4
+455067,Uno Playing Cards,Toys & Games,3,962,08-01-2020,Kartik,500037,Chennai,Yes,UPI,4
+455069,14k Gold coin,"Clothes, Shoes, and Jewellery",8,3604,20-01-2020,Om,500037,Chennai,No,COD,4
+455071,The Martian,Books,1,339,01-01-2020,Ashish,380001,Mumbai,No,Credit Card,5
+455079,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2922,21-01-2020,Rohan,560020,Hyderabad,No,Debit Card,4
+455083,Galazy Note 21,Electronic Accessories & Gadgets,8,3390,26-01-2020,Uma,380002,Chennai,Yes,UPI,4
+455089,The Martian,Books,1,511,06-01-2020,Simran,560020,Mumbai,Yes,Credit Card,3
+455092,4-layered Face Masks,Beauty And Personal Care,10,309,01-02-2020,Imraan,110004,Chennai,Yes,Debit Card,1
+455096,Building Blocks - Set of 501,Toys & Games,3,824,02-02-2020,Ekta,380003,Hyderabad,Yes,UPI,5
+455101,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,6519,02-02-2020,Shreya,380002,Bangalore,Yes,COD,5
+455106,4-layered Face Masks,Beauty And Personal Care,10,314,02-02-2020,Shrey,380003,Chennai,No,UPI,5
+455114,Galazy Note 21,Electronic Accessories & Gadgets,8,6647,02-02-2020,Gauhar,380003,Mumbai,No,Debit Card,5
+455115,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,4924,03-02-2020,Uma,380002,Ahmedabad,No,COD,5
+455122,PowerShot DSLR,Camera & Photo Accessories,2,9935,04-02-2020,Shivani,380001,Bangalore,Yes,Debit Card,2
+455128,Monopoly Board Game,Toys & Games,3,948,05-02-2020,Salman,380002,Hyderabad,No,Credit Card,1
+455133,Spa Bar - Jasmine,Beauty And Personal Care,10,1318,05-02-2020,Shrey,380003,Bangalore,No,UPI,4
+455137,The Martian,Books,1,907,05-02-2020,Tara,600079,Chennai,No,Debit Card,5
+455142,Black Formal Shoes - Laced,"Clothes, Shoes, and Jewellery",8,2879,06-02-2020,Akshat,500029,Bangalore,No,Debit Card,2
+455143,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,3469,06-02-2020,Shrey,380003,Hyderabad,No,Debit Card,2
+455150,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,3715,06-02-2020,Himmat,560016,Delhi,Yes,Credit Card,5
+455152,"Rich Dad, Poor Dad",Books,1,833,07-02-2020,Maya,560016,Bangalore,Yes,UPI,3
+455156,Galazy Note 21,Electronic Accessories & Gadgets,8,8506,07-02-2020,Uma,380002,Delhi,No,Credit Card,5
+455164,PowerShot DSLR,Camera & Photo Accessories,2,11423,07-02-2020,Rohan,560020,Mumbai,No,Debit Card,5
+455166,Building Blocks - Set of 501,Toys & Games,3,955,08-02-2020,Urvashi,400015,Bangalore,Yes,Debit Card,1
+455172,Beard Trimmer,Beauty And Personal Care,10,1230,08-02-2020,Simran,560020,Mumbai,No,Debit Card,5
+455178,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,3764,09-02-2020,Abhijeet,110004,Hyderabad,No,Debit Card,5
+455185,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,6628,09-02-2020,Dalbir,560016,Bangalore,Yes,Credit Card,3
+455190,Harry Potter and the Deathly Hallows,Books,1,648,09-02-2020,Yash,110004,Bangalore,No,Credit Card,5
+455195,Xbox One,Video Games & Consoles,3,1476,10-02-2020,Imraan,110004,Chennai,No,UPI,5
+455196,Beard Trimmer,Beauty And Personal Care,10,401,10-02-2020,Shrey,380003,Delhi,Yes,Debit Card,4
+455201,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2658,10-02-2020,Pooja,380002,Chennai,No,UPI,4
+455203,The Martian,Books,1,321,11-02-2020,Yash,110004,Hyderabad,No,UPI,5
+455204,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,8206,11-02-2020,Aishwarya,380002,Chennai,No,Debit Card,5
+455210,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,6692,11-02-2020,Himmat,560016,Ahmedabad,No,COD,5
+455217,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,6359,12-02-2020,Pooja,380002,Chennai,Yes,Debit Card,5
+455222,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,4101,12-02-2020,Gauhar,380003,Delhi,Yes,Credit Card,5
+455223,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,3889,13-02-2020,Dhruv,500037,Mumbai,Yes,Credit Card,1
+455226,Ikigai: The Japanese secret to a long and happy life.,Books,1,404,13-02-2020,Gaurav,380001,Delhi,No,Credit Card,2
+455232,4-layered Face Masks,Beauty And Personal Care,10,785,14-02-2020,Maya,560016,Ahmedabad,No,UPI,5
+455238,D3501 mirrorless camera,Camera & Photo Accessories,2,5977,14-02-2020,Uma,380002,Chennai,No,Debit Card,4
+455239,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,2848,14-02-2020,Farhan,380003,Delhi,No,Credit Card,2
+455240,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,6213,14-02-2020,Farhan,380003,Chennai,No,Credit Card,5
+455244,EOS M201 mirrorless camera,Camera & Photo Accessories,2,9544,14-02-2020,Nikhil,600079,Ahmedabad,No,Credit Card,2
+455250,PowerShot DSLR,Camera & Photo Accessories,2,10720,15-02-2020,Dhruv,500037,Bangalore,Yes,Credit Card,5
+455253,Minecraft for Playstation 5,Video Games & Consoles,3,1915,15-02-2020,Aditi,600079,Bangalore,No,Debit Card,5
+455258,Spa Bar - Jasmine,Beauty And Personal Care,10,1047,15-02-2020,Deepika,600079,Mumbai,No,Debit Card,5
+455263,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4786,16-02-2020,Maya,560016,Mumbai,No,Credit Card,5
+455265,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,6954,16-02-2020,Gaurav,380001,Hyderabad,Yes,Debit Card,5
+455267,Ikigai: The Japanese secret to a long and happy life.,Books,1,744,16-02-2020,Zoya,560016,Hyderabad,No,Credit Card,3
+455273,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2173,16-02-2020,Om,500037,Mumbai,Yes,UPI,5
+455281,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,3498,17-02-2020,Shrey,380003,Delhi,No,COD,2
+455286,Uno Playing Cards,Toys & Games,3,510,17-02-2020,Rohan,560020,Bangalore,No,COD,3
+455293,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,4693,17-02-2020,Gayatri,400015,Bangalore,No,UPI,4
+455299,Coolpix DSLR,Camera & Photo Accessories,2,10139,17-02-2020,Vaishnavi,500037,Delhi,No,COD,2
+455302,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,4551,17-02-2020,Parth,400015,Bangalore,No,UPI,5
+455307,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,4176,18-02-2020,Aditi,600079,Mumbai,No,COD,5
+455312,Beard Trimmer,Beauty And Personal Care,10,1303,18-02-2020,Tanvi,560020,Chennai,No,Debit Card,5
+455316,PlayStation 4 Slim,Video Games & Consoles,3,1504,18-02-2020,Anjali,560020,Hyderabad,No,UPI,4
+455319,God Of War for PS5,Video Games & Consoles,3,974,18-02-2020,Sanjana,500029,Chennai,No,COD,5
+455326,"Rich Dad, Poor Dad",Books,1,729,19-02-2020,Farhan,380003,Chennai,Yes,COD,5
+455328,Building Blocks - Set of 501,Toys & Games,3,296,19-02-2020,Zoya,560016,Mumbai,Yes,UPI,2
+455333,Hair Straightener,Beauty And Personal Care,10,933,20-02-2020,Salman,380002,Delhi,No,Credit Card,2
+455334,Switch videogame console,Video Games & Consoles,3,1353,20-02-2020,Simran,560020,Mumbai,Yes,Credit Card,5
+455340,"Rich Dad, Poor Dad",Books,1,385,20-02-2020,Surbhi,380001,Hyderabad,No,COD,5
+455342,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,8741,20-02-2020,Imraan,110004,Chennai,Yes,Credit Card,5
+455346,Galazy Note 21,Electronic Accessories & Gadgets,8,4046,21-02-2020,Shivani,380001,Hyderabad,No,UPI,5
+455348,Toy Gun Blaster ,Toys & Games,3,347,21-02-2020,Dalbir,560016,Chennai,No,UPI,4
+455356,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,3387,22-02-2020,Pranav,500029,Ahmedabad,Yes,Credit Card,4
+455359,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,3049,22-02-2020,Shreya,380002,Chennai,No,Credit Card,5
+455366,Hero 9 portable drone camera,Camera & Photo Accessories,2,14820,23-02-2020,Sanjay,560020,Mumbai,No,COD,3
+455372,Ikigai: The Japanese secret to a long and happy life.,Books,1,708,23-02-2020,Pranav,500029,Mumbai,No,Debit Card,4
+455375,Uno Playing Cards,Toys & Games,3,285,23-02-2020,Shivani,380001,Hyderabad,No,Credit Card,5
+455380,Switch videogame console,Video Games & Consoles,3,1333,23-02-2020,Aditya,500037,Bangalore,No,UPI,3
+455386,PlayStation 4 Slim,Video Games & Consoles,3,1968,24-02-2020,Surbhi,380001,Chennai,Yes,Debit Card,4
+455391,Black Formal Shoes - Laced,"Clothes, Shoes, and Jewellery",8,3721,24-02-2020,Parth,400015,Chennai,No,UPI,3
+455399,Harry Potter and the Deathly Hallows,Books,1,284,24-02-2020,Shweta,600079,Bangalore,No,Credit Card,5
+455402,4-layered Face Masks,Beauty And Personal Care,10,494,24-02-2020,Kabir,500029,Ahmedabad,Yes,UPI,5
+455408,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2176,25-02-2020,Yash,110004,Ahmedabad,Yes,COD,5
+455412,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,5314,25-02-2020,Shrey,380003,Ahmedabad,No,Debit Card,5
+455414,Coolpix DSLR,Camera & Photo Accessories,2,5250,25-02-2020,Aasha,560016,Bangalore,No,COD,3
+455421,D3501 mirrorless camera,Camera & Photo Accessories,2,14004,26-02-2020,Dalbir,560016,Bangalore,Yes,COD,2
+455422,PowerShot DSLR,Camera & Photo Accessories,2,6906,26-02-2020,Gaurav,380001,Bangalore,No,Credit Card,5
+455430,Xbox One,Video Games & Consoles,3,1114,27-02-2020,Yash,110004,Chennai,No,UPI,4
+455433,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,3412,27-02-2020,Abhijeet,110004,Ahmedabad,Yes,Credit Card,5
+455437,4-layered Face Masks,Beauty And Personal Care,10,1293,27-02-2020,Ashish,380001,Bangalore,No,UPI,1
+455443,Wax Crayons (Set of 120),Toys & Games,3,798,27-02-2020,Om,500037,Ahmedabad,No,Credit Card,4
+455444,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2737,27-02-2020,Yash,110004,Ahmedabad,No,Credit Card,5
+455447,4-layered Face Masks,Beauty And Personal Care,10,1197,27-02-2020,Shweta,600079,Ahmedabad,Yes,COD,4
+455448,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,3245,28-02-2020,Mohammed,110004,Hyderabad,No,UPI,5
+455451,"Rich Dad, Poor Dad",Books,1,958,28-02-2020,Maya,560016,Delhi,Yes,UPI,5
+455459,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,3043,29-02-2020,Salman,380002,Bangalore,No,Debit Card,3
+455464,Building Blocks - Set of 501,Toys & Games,3,513,01-03-2020,Maya,560016,Delhi,Yes,UPI,5
+455470,PowerShot DSLR,Camera & Photo Accessories,2,11792,01-03-2020,Simran,560020,Delhi,No,Debit Card,3
+455472,Harry Potter and the Deathly Hallows,Books,1,477,01-03-2020,Rohan,560020,Delhi,Yes,Debit Card,4
+455475,EOS M201 mirrorless camera,Camera & Photo Accessories,2,13565,01-03-2020,Salman,380002,Delhi,No,UPI,2
+455479,"Rich Dad, Poor Dad",Books,1,424,02-03-2020,Rohan,560020,Mumbai,Yes,COD,5
+455486,Galazy Note 21,Electronic Accessories & Gadgets,8,5566,02-03-2020,Yash,110004,Chennai,No,UPI,2
+455491,Ikigai: The Japanese secret to a long and happy life.,Books,1,260,02-03-2020,Gauhar,380003,Bangalore,Yes,Debit Card,5
+455496,Beard Trimmer,Beauty And Personal Care,10,1198,03-03-2020,Ekta,380003,Chennai,No,COD,4
+455504,Toy Gun Blaster ,Toys & Games,3,474,03-03-2020,Bhoomi,380003,Ahmedabad,No,Debit Card,5
+455506,Building Blocks - Set of 501,Toys & Games,3,628,03-03-2020,Himmat,560016,Ahmedabad,Yes,COD,5
+455509,Harry Potter and the Deathly Hallows,Books,1,894,03-03-2020,Gauhar,380003,Chennai,No,COD,3
+455511,EOS M201 mirrorless camera,Camera & Photo Accessories,2,6066,03-03-2020,Pranav,500029,Hyderabad,No,Credit Card,1
+455517,God Of War for PS5,Video Games & Consoles,3,1709,03-03-2020,Sanjana,500029,Ahmedabad,Yes,Credit Card,3
+455523,Hair Straightener,Beauty And Personal Care,10,657,03-03-2020,Maya,560016,Bangalore,Yes,Credit Card,5
+455527,Uno Playing Cards,Toys & Games,3,593,04-03-2020,Dhruv,500037,Ahmedabad,No,Debit Card,5
+455530,Hero 9 portable drone camera,Camera & Photo Accessories,2,14337,04-03-2020,Nikhil,600079,Chennai,No,UPI,5
+455532,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2548,04-03-2020,Akshat,500029,Hyderabad,No,COD,3
+455538,The Girl on the Train,Books,1,916,05-03-2020,Shivani,380001,Ahmedabad,No,Credit Card,5
+455539,Beard Trimmer,Beauty And Personal Care,10,1474,05-03-2020,Shreya,380002,Hyderabad,No,UPI,5
+455540,Galazy Note 21,Electronic Accessories & Gadgets,8,5805,05-03-2020,Simran,560020,Hyderabad,No,COD,2
+455544,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,3076,05-03-2020,Farhan,380003,Bangalore,No,UPI,5
+455552,PlayStation 4 Slim,Video Games & Consoles,3,1359,06-03-2020,Shivani,380001,Hyderabad,No,UPI,4
+455554,4-layered Face Masks,Beauty And Personal Care,10,342,06-03-2020,Pooja,380002,Chennai,No,Debit Card,5
+455555,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,8320,06-03-2020,Daljeet,110004,Bangalore,No,COD,5
+455557,God Of War for PS5,Video Games & Consoles,3,952,07-03-2020,Sanjana,500029,Bangalore,No,UPI,3
+455562,Spa Bar - Jasmine,Beauty And Personal Care,10,1021,07-03-2020,Kartik,500037,Bangalore,Yes,UPI,3
+455567,Hero 9 portable drone camera,Camera & Photo Accessories,2,13109,07-03-2020,Sahil,380001,Delhi,No,Credit Card,5
+455572,Hero 9 portable drone camera,Camera & Photo Accessories,2,8875,07-03-2020,Ashish,380001,Hyderabad,No,UPI,5
+455573,Toy Gun Blaster ,Toys & Games,3,992,08-03-2020,Kabir,500029,Hyderabad,No,UPI,5
+455579,God Of War for PS5,Video Games & Consoles,3,1400,08-03-2020,Gauhar,380003,Bangalore,No,Debit Card,5
+455587,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,2756,08-03-2020,Shrey,380003,Bangalore,No,Debit Card,5
+455594,PlayStation 4 Slim,Video Games & Consoles,3,1392,08-03-2020,Aishwarya,380002,Mumbai,Yes,Credit Card,5
+455600,EOS M201 mirrorless camera,Camera & Photo Accessories,2,14323,08-03-2020,Gayatri,400015,Hyderabad,No,Debit Card,2
+455601,Ikigai: The Japanese secret to a long and happy life.,Books,1,647,09-03-2020,Akshat,500029,Ahmedabad,No,UPI,2
+455609,Wax Crayons (Set of 120),Toys & Games,3,298,09-03-2020,Daljeet,110004,Bangalore,Yes,Credit Card,5
+455611,Harry Potter and the Deathly Hallows,Books,1,319,09-03-2020,Gaurav,380001,Mumbai,No,COD,5
+455616,Coolpix DSLR,Camera & Photo Accessories,2,9392,09-03-2020,Aasha,560016,Mumbai,No,Credit Card,4
+455624,Wax Crayons (Set of 120),Toys & Games,3,120,09-03-2020,Simran,560020,Ahmedabad,No,COD,4
+455627,God Of War for PS5,Video Games & Consoles,3,1848,09-03-2020,Madhav,400015,Ahmedabad,No,Debit Card,5
+455630,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1312,09-03-2020,Shivani,380001,Mumbai,Yes,Debit Card,5
+455631,Black Formal Shoes - Laced,"Clothes, Shoes, and Jewellery",8,3894,09-03-2020,Simran,560020,Ahmedabad,No,UPI,4
+455633,Toy Gun Blaster ,Toys & Games,3,738,10-03-2020,Dalbir,560016,Hyderabad,Yes,Credit Card,3
+455639,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,4737,10-03-2020,Maya,560016,Hyderabad,Yes,UPI,5
+455646,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,4864,10-03-2020,Shweta,600079,Bangalore,No,Debit Card,2
+455649,The Martian,Books,1,529,10-03-2020,Tanvi,560020,Delhi,No,Credit Card,5
+455655,Minecraft for Playstation 5,Video Games & Consoles,3,1519,11-03-2020,Yash,110004,Bangalore,Yes,Debit Card,2
+455657,D3501 mirrorless camera,Camera & Photo Accessories,2,9092,11-03-2020,Farhan,380003,Delhi,Yes,UPI,2
+455664,Harry Potter and the Deathly Hallows,Books,1,869,11-03-2020,Uma,380002,Delhi,No,Debit Card,4
+455668,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,3492,12-03-2020,Shivani,380001,Mumbai,No,COD,4
+455675,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,8589,12-03-2020,Simran,560020,Chennai,No,COD,5
+455680,Spa Bar - Jasmine,Beauty And Personal Care,10,824,12-03-2020,Gauhar,380003,Bangalore,Yes,UPI,5
+455683,Harry Potter and the Deathly Hallows,Books,1,852,12-03-2020,Aditya,500037,Bangalore,No,COD,5
+455686,Wax Crayons (Set of 120),Toys & Games,3,215,13-03-2020,Ekta,380003,Chennai,No,COD,4
+455693,Minecraft for Playstation 5,Video Games & Consoles,3,728,13-03-2020,Mohammed,110004,Hyderabad,No,Debit Card,5
+455700,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2799,13-03-2020,Yash,110004,Hyderabad,Yes,Debit Card,5
+455704,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,8123,13-03-2020,Ashish,380001,Mumbai,No,COD,4
+455712,Uno Playing Cards,Toys & Games,3,891,13-03-2020,Zoya,560016,Delhi,No,Credit Card,2
+455717,Coolpix DSLR,Camera & Photo Accessories,2,12926,14-03-2020,Gaurav,380001,Delhi,No,UPI,5
+455720,Galazy Note 21,Electronic Accessories & Gadgets,8,7941,14-03-2020,Rohan,560020,Bangalore,No,Credit Card,5
+455727,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,7442,15-03-2020,Uma,380002,Bangalore,No,UPI,5
+455730,14k Gold coin,"Clothes, Shoes, and Jewellery",8,3825,15-03-2020,Om,500037,Bangalore,Yes,Credit Card,2
+455736,Black Formal Shoes - Laced,"Clothes, Shoes, and Jewellery",8,4777,16-03-2020,Madhav,400015,Delhi,No,COD,5
+455744,4-layered Face Masks,Beauty And Personal Care,10,974,16-03-2020,Shrey,380003,Bangalore,No,UPI,5
+455746,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,3312,16-03-2020,Gauhar,380003,Delhi,No,COD,4
+455750,The Girl on the Train,Books,1,285,17-03-2020,Om,500037,Bangalore,Yes,UPI,2
+455754,EOS M201 mirrorless camera,Camera & Photo Accessories,2,9291,18-03-2020,Pooja,380002,Hyderabad,No,Credit Card,5
+455758,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,3152,18-03-2020,Abhijeet,110004,Mumbai,No,Debit Card,5
+455765,Toy Gun Blaster ,Toys & Games,3,120,18-03-2020,Gaurav,380001,Ahmedabad,No,UPI,5
+455770,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,5360,18-03-2020,Pranav,500029,Chennai,No,UPI,5
+455772,The Girl on the Train,Books,1,763,19-03-2020,Ekta,380003,Hyderabad,No,Credit Card,3
+455778,Ikigai: The Japanese secret to a long and happy life.,Books,1,693,19-03-2020,Sahil,380001,Hyderabad,No,COD,4
+455779,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,6765,19-03-2020,Rohan,560020,Bangalore,No,Credit Card,5
+455781,Toy Gun Blaster ,Toys & Games,3,279,19-03-2020,Ekta,380003,Mumbai,Yes,Debit Card,5
+455788,Building Blocks - Set of 501,Toys & Games,3,748,20-03-2020,Urvashi,400015,Bangalore,No,Credit Card,5
+455791,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1043,21-03-2020,Sanjana,500029,Delhi,No,Credit Card,4
+455797,Xbox One,Video Games & Consoles,3,1281,22-03-2020,Aditya,500037,Chennai,No,COD,4
+455800,God Of War for PS5,Video Games & Consoles,3,1304,23-03-2020,Gauhar,380003,Mumbai,Yes,COD,5
+455808,Switch videogame console,Video Games & Consoles,3,833,23-03-2020,Surbhi,380001,Mumbai,No,Debit Card,4
+455813,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,6663,24-03-2020,Bhoomi,380003,Hyderabad,No,UPI,1
+455817,Wax Crayons (Set of 120),Toys & Games,3,680,24-03-2020,Himmat,560016,Mumbai,No,COD,5
+455822,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,4217,24-03-2020,Vaishnavi,500037,Bangalore,No,Debit Card,2
+455823,PlayStation 4 Slim,Video Games & Consoles,3,791,24-03-2020,Dhruv,500037,Mumbai,Yes,Debit Card,5
+455825,Building Blocks - Set of 501,Toys & Games,3,349,24-03-2020,Shweta,600079,Ahmedabad,Yes,Credit Card,5
+455828,Spa Bar - Jasmine,Beauty And Personal Care,10,1031,25-03-2020,Varun,500029,Hyderabad,No,COD,5
+455833,4-layered Face Masks,Beauty And Personal Care,10,690,25-03-2020,Abhijeet,110004,Bangalore,No,COD,3
+455838,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,3280,26-03-2020,Urvashi,400015,Delhi,Yes,UPI,4
+455839,Ikigai: The Japanese secret to a long and happy life.,Books,1,405,26-03-2020,Bhoomi,380003,Ahmedabad,No,Credit Card,5
+455847,4-layered Face Masks,Beauty And Personal Care,10,739,26-03-2020,Abhijeet,110004,Chennai,No,Debit Card,4
+455854,God Of War for PS5,Video Games & Consoles,3,1451,26-03-2020,Zoya,560016,Chennai,Yes,Debit Card,5
+455855,PlayStation 4 Slim,Video Games & Consoles,3,1356,26-03-2020,Shweta,600079,Delhi,No,Credit Card,4
+455861,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2131,27-03-2020,Sanjay,560020,Delhi,No,UPI,5
+455862,Hero 9 portable drone camera,Camera & Photo Accessories,2,13263,28-03-2020,Sanjana,500029,Delhi,No,Debit Card,5
+455864,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4654,28-03-2020,Sanjana,500029,Hyderabad,No,Credit Card,5
+455870,Galazy Note 21,Electronic Accessories & Gadgets,8,8868,28-03-2020,Tara,600079,Hyderabad,No,Debit Card,5
+455875,Coolpix DSLR,Camera & Photo Accessories,2,5383,28-03-2020,Aditya,500037,Mumbai,No,Debit Card,5
+455880,Hair Straightener,Beauty And Personal Care,10,1285,29-03-2020,Yash,110004,Bangalore,No,Credit Card,5
+455888,Beard Trimmer,Beauty And Personal Care,10,792,30-03-2020,Daljeet,110004,Bangalore,Yes,COD,5
+455892,The Martian,Books,1,490,30-03-2020,Parth,400015,Mumbai,Yes,COD,3
+455895,Coolpix DSLR,Camera & Photo Accessories,2,12460,30-03-2020,Anjali,560020,Ahmedabad,No,COD,5
+455897,D3501 mirrorless camera,Camera & Photo Accessories,2,10442,30-03-2020,Zoya,560016,Hyderabad,No,Credit Card,5
+455904,Black Formal Shoes - Laced,"Clothes, Shoes, and Jewellery",8,2995,30-03-2020,Uma,380002,Hyderabad,No,COD,5
+455910,The Martian,Books,1,775,30-03-2020,Aditya,500037,Bangalore,No,COD,5
+455914,Beard Trimmer,Beauty And Personal Care,10,578,31-03-2020,Ashish,380001,Mumbai,No,COD,5
+455922,Beard Trimmer,Beauty And Personal Care,10,725,01-04-2020,Nikhil,600079,Hyderabad,No,Credit Card,5
+455927,Wax Crayons (Set of 120),Toys & Games,3,851,01-04-2020,Shweta,600079,Delhi,No,UPI,5
+455931,The Girl on the Train,Books,1,324,01-04-2020,Shweta,600079,Ahmedabad,No,UPI,1
+455938,Switch videogame console,Video Games & Consoles,3,1514,01-04-2020,Rohan,560020,Delhi,No,COD,5
+455941,Coolpix DSLR,Camera & Photo Accessories,2,13871,01-04-2020,Maya,560016,Delhi,Yes,Credit Card,2
+455942,Cotton Shirt for Men,"Clothes, Shoes, and Jewellery",8,2564,01-04-2020,Akshat,500029,Mumbai,No,Debit Card,5
+455943,Minecraft for Playstation 5,Video Games & Consoles,3,1667,02-04-2020,Shivani,380001,Bangalore,No,Credit Card,4
+455951,Toy Gun Blaster ,Toys & Games,3,149,02-04-2020,Simran,560020,Bangalore,No,UPI,5
+455954,Toy Gun Blaster ,Toys & Games,3,999,03-04-2020,Om,500037,Bangalore,No,Credit Card,3
+455957,Xbox One,Video Games & Consoles,3,991,03-04-2020,Aasha,560016,Chennai,No,COD,5
+455958,Galazy Note 21,Electronic Accessories & Gadgets,8,4593,03-04-2020,Salman,380002,Ahmedabad,No,Debit Card,5
+455962,D3501 mirrorless camera,Camera & Photo Accessories,2,5430,03-04-2020,Pranav,500029,Ahmedabad,No,UPI,5
+455967,PlayStation 4 Slim,Video Games & Consoles,3,1153,03-04-2020,Gautam,400015,Mumbai,No,Credit Card,4
+455974,Ikigai: The Japanese secret to a long and happy life.,Books,1,813,04-04-2020,Rohan,560020,Bangalore,No,Debit Card,5
+455980,Spa Bar - Jasmine,Beauty And Personal Care,10,1367,04-04-2020,Mohammed,110004,Ahmedabad,No,COD,5
+455981,Coolpix DSLR,Camera & Photo Accessories,2,5862,05-04-2020,Surbhi,380001,Chennai,No,Debit Card,2
+455986,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4190,05-04-2020,Mohammed,110004,Mumbai,No,Debit Card,5
+455988,Xbox One,Video Games & Consoles,3,1198,05-04-2020,Rohan,560020,Bangalore,No,UPI,5
+455993,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,6443,05-04-2020,Farhan,380003,Mumbai,No,Debit Card,5
+456000,4-layered Face Masks,Beauty And Personal Care,10,1116,06-04-2020,Gauhar,380003,Delhi,Yes,COD,1
+456003,The Girl on the Train,Books,1,300,06-04-2020,Pooja,380002,Mumbai,Yes,Credit Card,3
+456009,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,4036,06-04-2020,Ekta,380003,Hyderabad,No,COD,5
+456014,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,3742,06-04-2020,Surbhi,380001,Ahmedabad,No,COD,5
+456020,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1199,07-04-2020,Urvashi,400015,Bangalore,No,Credit Card,4
+456024,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,498,07-04-2020,Gauhar,380003,Hyderabad,No,UPI,4
+456032,Spa Bar - Jasmine,Beauty And Personal Care,10,575,08-04-2020,Gautam,400015,Bangalore,No,COD,3
+456036,Minecraft for Playstation 5,Video Games & Consoles,3,1745,08-04-2020,Kartik,500037,Delhi,No,Credit Card,5
+456041,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4071,08-04-2020,Sahil,380001,Chennai,No,UPI,4
+456049,Ikigai: The Japanese secret to a long and happy life.,Books,1,323,09-04-2020,Aishwarya,380002,Chennai,No,COD,1
+456052,Monopoly Board Game,Toys & Games,3,640,09-04-2020,Daljeet,110004,Ahmedabad,No,Debit Card,5
+456056,Toy Gun Blaster ,Toys & Games,3,109,10-04-2020,Gaurav,380001,Hyderabad,Yes,Debit Card,5
+456059,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2865,10-04-2020,Shrey,380003,Bangalore,No,Credit Card,5
+456064,The Girl on the Train,Books,1,743,10-04-2020,Zoya,560016,Delhi,No,Debit Card,5
+456067,Versa 3 Smartwatch,Electronic Accessories & Gadgets,8,5830,10-04-2020,Shrey,380003,Hyderabad,No,COD,4
+456069,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,4606,10-04-2020,Surbhi,380001,Delhi,No,COD,4
+456077,Uno Playing Cards,Toys & Games,3,738,10-04-2020,Vaishnavi,500037,Chennai,Yes,Debit Card,5
+456081,Toy Gun Blaster ,Toys & Games,3,181,11-04-2020,Shreya,380002,Mumbai,No,Debit Card,4
+456088,Toy Gun Blaster ,Toys & Games,3,621,11-04-2020,Deepika,600079,Ahmedabad,No,Credit Card,5
+456089,"Rich Dad, Poor Dad",Books,1,318,11-04-2020,Aditi,600079,Hyderabad,Yes,Debit Card,4
+456090,The Girl on the Train,Books,1,846,11-04-2020,Imraan,110004,Bangalore,Yes,Debit Card,4
+456096,Uno Playing Cards,Toys & Games,3,760,11-04-2020,Salman,380002,Ahmedabad,No,Credit Card,5
+456100,D3501 mirrorless camera,Camera & Photo Accessories,2,12473,12-04-2020,Dhruv,500037,Delhi,No,COD,5
+456105,14k Gold coin,"Clothes, Shoes, and Jewellery",8,3676,12-04-2020,Bhoomi,380003,Ahmedabad,No,Credit Card,5
+456112,4-layered Face Masks,Beauty And Personal Care,10,995,13-04-2020,Vaishnavi,500037,Ahmedabad,Yes,Credit Card,5
+456114,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1338,13-04-2020,Imraan,110004,Delhi,No,COD,5
+456117,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,3449,13-04-2020,Vaishnavi,500037,Hyderabad,Yes,Credit Card,5
+456119,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4759,14-04-2020,Akshat,500029,Hyderabad,Yes,UPI,5
+456125,Toy Gun Blaster ,Toys & Games,3,711,14-04-2020,Bhoomi,380003,Bangalore,No,Debit Card,2
+456130,Hair Straightener,Beauty And Personal Care,10,1056,14-04-2020,Urvashi,400015,Chennai,Yes,COD,3
+456138,Hair Straightener,Beauty And Personal Care,10,1337,14-04-2020,Madhav,400015,Hyderabad,No,UPI,5
+456142,Minecraft for Playstation 5,Video Games & Consoles,3,1909,14-04-2020,Yash,110004,Chennai,Yes,COD,5
+456144,PowerShot DSLR,Camera & Photo Accessories,2,12769,14-04-2020,Himmat,560016,Bangalore,No,Credit Card,3
+456149,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,8207,14-04-2020,Himmat,560016,Ahmedabad,No,COD,5
+456155,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,4675,14-04-2020,Aishwarya,380002,Mumbai,No,UPI,3
+456161,The Martian,Books,1,869,15-04-2020,Himmat,560016,Chennai,No,COD,1
+456167,Hair Straightener,Beauty And Personal Care,10,1384,16-04-2020,Ashish,380001,Ahmedabad,Yes,UPI,5
+456173,Wax Crayons (Set of 120),Toys & Games,3,451,16-04-2020,Sanjay,560020,Mumbai,No,COD,5
+456179,PowerShot DSLR,Camera & Photo Accessories,2,5225,16-04-2020,Sanjay,560020,Bangalore,No,UPI,5
+456187,The Martian,Books,1,384,16-04-2020,Himmat,560016,Chennai,No,COD,5
+456188,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,4907,17-04-2020,Kabir,500029,Delhi,No,COD,1
+456195,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,931,17-04-2020,Sanjana,500029,Mumbai,Yes,COD,4
+456199,Astrarun sports shoes,"Clothes, Shoes, and Jewellery",8,3804,18-04-2020,Gautam,400015,Mumbai,Yes,COD,1
+456207,Surface Pro 4 Type Cover with Fingerprint ID,Electronic Accessories & Gadgets,8,7039,18-04-2020,Yash,110004,Bangalore,Yes,UPI,5
+456214,Spa Bar - Jasmine,Beauty And Personal Care,10,729,18-04-2020,Vaishnavi,500037,Delhi,No,UPI,5
+456215,Minecraft for Playstation 5,Video Games & Consoles,3,1575,19-04-2020,Shrey,380003,Chennai,No,UPI,5
+456221,Hair Straightener,Beauty And Personal Care,10,1006,19-04-2020,Kartik,500037,Ahmedabad,No,Credit Card,5
+456227,The Martian,Books,1,302,19-04-2020,Dalbir,560016,Ahmedabad,No,Credit Card,5
+456229,43 inches 4K Smart LED TV,Electronic Accessories & Gadgets,8,4752,19-04-2020,Tara,600079,Hyderabad,No,Credit Card,3
+456234,Hair Straightener,Beauty And Personal Care,10,1312,20-04-2020,Deepika,600079,Mumbai,No,UPI,5
+456235,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,1080,20-04-2020,Yash,110004,Mumbai,Yes,Debit Card,3
+456240,D3501 mirrorless camera,Camera & Photo Accessories,2,5645,20-04-2020,Himmat,560016,Bangalore,No,COD,5
+456243,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,3670,20-04-2020,Daljeet,110004,Hyderabad,Yes,Debit Card,5
+456246,The Martian,Books,1,863,21-04-2020,Shreya,380002,Ahmedabad,Yes,Credit Card,5
+456252,Spa Bar - Jasmine,Beauty And Personal Care,10,688,21-04-2020,Parth,400015,Ahmedabad,No,Credit Card,3
+456255,Building Blocks - Set of 501,Toys & Games,3,292,21-04-2020,Anjali,560020,Chennai,No,COD,3
+456260,Beard Trimmer,Beauty And Personal Care,10,1079,22-04-2020,Mohammed,110004,Delhi,No,Credit Card,5
+456264,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2768,22-04-2020,Tara,600079,Bangalore,Yes,COD,5
+456269,Uno Playing Cards,Toys & Games,3,725,22-04-2020,Om,500037,Ahmedabad,No,Credit Card,5
+456277,Hair Straightener,Beauty And Personal Care,10,647,22-04-2020,Abhijeet,110004,Ahmedabad,No,Debit Card,2
+456281,Spa Bar - Jasmine,Beauty And Personal Care,10,1403,22-04-2020,Uma,380002,Hyderabad,Yes,Credit Card,5
+456288,Beard Trimmer,Beauty And Personal Care,10,885,22-04-2020,Aishwarya,380002,Chennai,No,Debit Card,4
+456292,The Martian,Books,1,762,22-04-2020,Shivani,380001,Ahmedabad,No,Credit Card,4
+456299,Monopoly Board Game,Toys & Games,3,852,23-04-2020,Salman,380002,Delhi,Yes,UPI,5
+456305,14k Gold coin,"Clothes, Shoes, and Jewellery",8,2060,23-04-2020,Daljeet,110004,Hyderabad,No,UPI,5
+456313,14k Gold coin,"Clothes, Shoes, and Jewellery",8,3125,23-04-2020,Yash,110004,Chennai,No,Credit Card,4
+456321,Eau De Toilette 200 ml for Men,Beauty And Personal Care,10,757,23-04-2020,Maya,560016,Mumbai,Yes,UPI,5
+456326,Galazy Note 21,Electronic Accessories & Gadgets,8,5607,24-04-2020,Ekta,380003,Delhi,No,Credit Card,5
+456333,The Martian,Books,1,698,24-04-2020,Ekta,380003,Mumbai,Yes,COD,5
+456339,Galazy Note 21,Electronic Accessories & Gadgets,8,3297,24-04-2020,Yash,110004,Bangalore,No,COD,5
+456347,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,2491,25-04-2020,Anjali,560020,Bangalore,Yes,COD,2
+456350,Monopoly Board Game,Toys & Games,3,549,25-04-2020,Imraan,110004,Bangalore,No,COD,1
+456358,Spa Bar - Jasmine,Beauty And Personal Care,10,369,26-04-2020,Ashish,380001,Bangalore,No,Debit Card,5
+456359,Spa Bar - Jasmine,Beauty And Personal Care,10,1332,26-04-2020,Salman,380002,Mumbai,No,COD,1
+456366,14k Gold coin,"Clothes, Shoes, and Jewellery",8,3229,26-04-2020,Maya,560016,Mumbai,No,Credit Card,5
+456372,The Martian,Books,1,835,26-04-2020,Shrey,380003,Ahmedabad,Yes,COD,1
+456380,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4665,26-04-2020,Ekta,380003,Hyderabad,No,Credit Card,5
+456388,Spa Bar - Jasmine,Beauty And Personal Care,10,1320,26-04-2020,Deepika,600079,Ahmedabad,No,UPI,5
+456394,Spa Bar - Jasmine,Beauty And Personal Care,10,786,26-04-2020,Kartik,500037,Hyderabad,No,UPI,4
+456397,"Rich Dad, Poor Dad",Books,1,365,26-04-2020,Pranav,500029,Bangalore,No,Debit Card,4
+456403,14k Gold coin,"Clothes, Shoes, and Jewellery",8,4200,27-04-2020,Shweta,600079,Hyderabad,No,Debit Card,1
+456404,Monopoly Board Game,Toys & Games,3,468,27-04-2020,Deepika,600079,Chennai,No,COD,5
+456405,The Martian,Books,1,415,27-04-2020,Sanjana,500029,Delhi,No,Credit Card,4
+456408,PowerShot DSLR,Camera & Photo Accessories,2,14521,28-04-2020,Yash,110004,Mumbai,Yes,UPI,5
+456415,"Rich Dad, Poor Dad",Books,1,1000,28-04-2020,Surbhi,380001,Mumbai,No,Credit Card,3
+456417,Galazy Note 21,Electronic Accessories & Gadgets,8,6970,28-04-2020,Shivani,380001,Delhi,No,Credit Card,5
+456419,Powerbank 10000mAH,Electronic Accessories & Gadgets,8,6460,28-04-2020,Mohammed,110004,Chennai,No,Debit Card,2
+456421,PowerShot DSLR,Camera & Photo Accessories,2,6191,28-04-2020,Dalbir,560016,Ahmedabad,No,UPI,5
+456426,"Rich Dad, Poor Dad",Books,1,282,29-04-2020,Rohan,560020,Ahmedabad,No,Credit Card,5
+456431,4-layered Face Masks,Beauty And Personal Care,10,692,30-04-2020,Yash,110004,Mumbai,No,Debit Card,4
+456438,Cotton Kurta for Women,"Clothes, Shoes, and Jewellery",8,3481,30-04-2020,Om,500037,Chennai,Yes,Debit Card,3
+456439,Building Blocks - Set of 501,Toys & Games,3,205,30-04-2020,Deepika,600079,Delhi,No,UPI,5
+456443,"Rich Dad, Poor Dad",Books,1,934,30-04-2020,Simran,560020,Ahmedabad,Yes,UPI,3
+456445,Galazy Note 21,Electronic Accessories & Gadgets,8,3748,30-04-2020,Simran,560020,Bangalore,No,COD,5
